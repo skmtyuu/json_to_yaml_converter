@@ -1,0 +1,12 @@
+- name: user_id
+  data_type: INT
+  description: foooo
+
+- name: partner_id
+  data_type: STRING
+  description: hogegg
+
+- name: hogehoge
+  data_type: INT
+  description: hugaaaaa
+
